@@ -2,3 +2,33 @@
 
 Chemistry × Engineering  
 Undergraduate Researcher
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sjdevlog&theme=github)
+
+### 🛠 Tech Stack
+
+#### Main Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+
+#### Also Used
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+#### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+
+### 🚀 Currently
+- Studying core chemistry and experimental methods
+- Learning computer science fundamentals (C, C++, Java)
+- Building small projects and organizing my notes
+
+### 📌 Featured
+- 🧩 [프로그래밍 연습 (Coding Test)](https://github.com/sjdevlog/codingtest)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjdevlog&show_icons=true)
+
+![visitors](https://komarev.com/ghpvc/?username=sjdevlog&color=blueviolet)
