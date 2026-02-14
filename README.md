@@ -29,6 +29,4 @@ Undergraduate Researcher
 ### 📌 Featured
 - 🧩 [프로그래밍 연습 (Coding Test)](https://github.com/sjdevlog/codingtest)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sjdevlog&theme=github)
-
 ![visitors](https://komarev.com/ghpvc/?username=sjdevlog&color=blueviolet)
