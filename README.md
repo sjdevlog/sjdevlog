@@ -43,7 +43,8 @@ Undergraduate Researcher
 ---
 
 ### 📌 Featured
-- 🧩 [프로그래밍 연습 (Coding Test)](https://github.com/sjdevlog/coding_test)
+- 🧩 [프로그래밍연습(Coding Test)](https://github.com/sjdevlog/coding_test)
+- 📝 [개인프로젝트 TodoList](https://github.com/sjdevlog/spring-todolist)
 
 ---
 
