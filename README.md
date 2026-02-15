@@ -5,6 +5,8 @@ Undergraduate Researcher
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sjdevlog&theme=github)
 
+---
+
 ### 🛠 Tech Stack
 
 #### Main Languages
@@ -19,14 +21,32 @@ Undergraduate Researcher
 
 #### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
+---
 
 ### 🚀 Currently
 - Studying core chemistry and experimental methods
 - Learning computer science fundamentals (C, C++, Java)
 - Building small projects and organizing my notes
 
+---
+
+### 🏅 Algorithm (BOJ)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=kelly2409)](https://solved.ac/kelly2409)
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kelly2409&theme=warm)
+
+
+---
+
 ### 📌 Featured
 - 🧩 [프로그래밍 연습 (Coding Test)](https://github.com/sjdevlog/coding_test)
 
+---
+
 ![visitors](https://komarev.com/ghpvc/?username=sjdevlog&color=blueviolet)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
