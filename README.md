@@ -27,6 +27,6 @@ Undergraduate Researcher
 - Building small projects and organizing my notes
 
 ### 📌 Featured
-- 🧩 [프로그래밍 연습 (Coding Test)](https://github.com/sjdevlog/codingtest)
+- 🧩 [프로그래밍 연습 (Coding Test)](https://github.com/sjdevlog/coding_test)
 
 ![visitors](https://komarev.com/ghpvc/?username=sjdevlog&color=blueviolet)
